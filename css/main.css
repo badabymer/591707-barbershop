@@ -1,0 +1,106 @@
+.header{
+	height: 70px;
+	background-color: black;	
+vertical-align: middle;
+
+}
+.header-container{
+padding-left: 10%;
+padding-right: 10%;
+}
+.user-block {
+    text-align: right;
+    color: #fff;
+    padding: 0px;
+    margin-top: -54px;
+    text-transform: uppercase;
+    font-style: 16px;
+}
+.icon-login {
+    background-image:url("../img/icon-login.png"); 
+    width:18px; 
+    height:16px; 
+    display:inline-block;
+    vertical-align:bottom;
+    padding-right: 25px;
+    background-repeat: no-repeat;
+}
+.user-block a{
+	    color: #fff;
+	}
+.menu{
+height: 70px;
+padding-top: 10px;
+}
+}
+.menu ul{
+
+	list-style: none; 
+	margin: 0; 
+	padding: 0
+}
+.menu li{
+	display: inline;
+	color: #fff;
+font-family: PT Sans Narrow; 
+font-size: 16px;
+margin-right: 10px;
+text-transform: uppercase;
+
+}
+.menu li a{
+color: #fff;
+
+	}
+	.inline
+	{
+	display: inline;	
+	}
+	.main {
+  background-image: url("../img/tint.jpg");
+  position: absolute;
+  left: -1px;
+  top: 0px;
+  width: 100%;
+  height: 1829px;
+  z-index: 3;
+}
+.index-logo
+{
+
+	/*border: 2px dotted red;*/
+	align-content: center;
+	padding-top: 30px;
+}
+
+.index-logo img
+{
+padding-left: 40%;
+	
+}
+.features-icon{
+	 background-image:url("../img/features-icon.png"); 
+	  width:30px; 
+    height:30px; 
+  padding-left: 45%;
+    margin-left: auto;
+    background-repeat: no-repeat
+}
+.features{
+width:100%; 
+height:1px; 
+clear:both;
+    padding-left: 20%;
+}
+.features-item{
+   width:312px; 
+        height:166px; 
+        color: #fff;
+        float:left; 
+        margin-left:15px; 
+        text-align:center;
+        text-transform: uppercase;
+}
+
+
+
